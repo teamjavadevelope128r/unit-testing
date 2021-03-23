@@ -23,7 +23,8 @@ public class UnitRestTesting {
 	  int status=mvcResult.getResponse().getStatus();
 	  assertEquals(201,status);	  
 	  System.out.println("compleate");
-	  
+	  System.out.println("junit testiong");
+	  System.out.println("junit mackito");
    }
 
 }
